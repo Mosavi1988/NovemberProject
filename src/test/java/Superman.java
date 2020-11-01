@@ -1,3 +1,5 @@
 public class Superman {
-    ma
+    public static void main(String[] args) {
+        System.out.println("yeah it is");
+    }
 }
